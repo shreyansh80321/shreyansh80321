@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Shreyansh Srivastava
 **A passionate Full Stack Developer || MERN Stack || Competitive Coding  || DSA**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **sibersuper1122@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 # 💫 About Me:
 - 🔭 I’m currently working on **a Grocery App that helps users order essentials online with ease**  <br>- 🌱 I’m currently learning **React Native**  <br>- 💬 Ask me about **MERN Stack Development, Frontend Design, and Data Structures & Algorithms**  <br>- ⚡Fun fact: I started coding for fun, now it’s my superpower 🚀
 
