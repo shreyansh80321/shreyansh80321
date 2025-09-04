@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Shreyansh Srivastava
+#  Hi 👋, I'm Shreyansh Srivastava
 **A passionate Full Stack Developer || MERN Stack || Competitive Coding  || DSA**
 
 Email Me 👉 ✉️ **sibersuper1122@gmail.com** For Collaboration/Project or Anything Else. 😊😊
