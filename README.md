@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **shreyanshsrivastava80321@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 # 💫 About Me:
- - 🔭 I’m currently working on **a Grocery App that helps users order essentials online with ease**  <br>- 🌱 I’m currently learning **React Native**  <br>- 💬 Ask me about **MERN Stack Development, Frontend Design, and Data Structures & Algorithms**  <br>- ⚡Fun fact: I started coding for fun, now it’s my superpower 🚀
+ - 🔭 I’m currently working on **a Grocery App that helps users order essentials online with ease** <br>- 💬 Ask me about **MERN Stack Development, Frontend Design, and Data Structures & Algorithms**  <br>- ⚡Fun fact: I started coding for fun, now it’s my superpower 🚀
 
 
 ## 🌐 Socials:
