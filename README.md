@@ -26,7 +26,7 @@ Email Me 👉 ✉️ **shreyanshsrivastava80321@gmail.com** For Collaboration/Pr
 <p align="center">
   <img 
     src="https://leetcard.jacoblin.cool/sibersuper1122?theme=dark&font=Nunito&ext=heatmap" 
-    width="100%" 
+    width="80%" 
   />
 </p>
 
