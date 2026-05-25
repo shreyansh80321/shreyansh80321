@@ -24,7 +24,10 @@ Email Me 👉 ✉️ **shreyanshsrivastava80321@gmail.com** For Collaboration/Pr
 # 🏆 My LeetCode Journey
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sibersuper1122?theme=dark&font=Nunito&ext=heatmap" />
+  <img 
+    src="https://leetcard.jacoblin.cool/sibersuper1122?theme=dark&font=Nunito&ext=heatmap" 
+    width="100%" 
+  />
 </p>
 
 
