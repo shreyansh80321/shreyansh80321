@@ -1,15 +1,31 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shreyansh%20Srivastava&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+
 <h1 align="center">Hi 👋, I'm Shreyansh Srivastava</h1>
 
-<h3 align="center">
-Software Developer | Full Stack Developer | Node.js Enthusiast
-</h3>
-
 <p align="center">
-Building scalable web applications using Node.js, React, Next.js, and modern backend technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Developer;Node.js+%7C+React+%7C+Next.js;Backend+Developer;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyansh80321&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+Building scalable web applications using <b>Node.js</b>, <b>React</b>, <b>Next.js</b>, and modern backend technologies.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shreyansh80321&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+<p align="center">
+<a href="https://leetcode.com/u/sibersuper1122/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/shreyansh80321">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://portfolio-iota-bay-65.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge"/>
+</a>
 </p>
 
 ---
@@ -17,11 +33,11 @@ Building scalable web applications using Node.js, React, Next.js, and modern bac
 # 🚀 About Me
 
 - 🎓 Final Year B.Tech (Information Technology)
-- 💼 Software Developer Intern
-- 🌱 Currently working with **Node.js, React, Next.js, MySQL, Redis**
+- 💼 Software Developer Intern at **easyLife**
+- 🌱 Working with **Node.js, React, Next.js, MySQL & Redis**
 - 💻 Passionate about Backend Development & Full Stack Engineering
-- 📚 Learning System Design, Microservices, and Cloud Technologies
-- ⚡ Solving Data Structures & Algorithms on LeetCode
+- 📚 Currently learning **System Design, Microservices & Cloud**
+- ⚡ Solving Data Structures & Algorithms on **LeetCode**
 
 ---
 
@@ -43,104 +59,77 @@ Building scalable web applications using Node.js, React, Next.js, and modern bac
 
 # 🛠️ Tech Stack
 
-## Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
----
-
-## Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
----
-
-## Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-## Database & Cache
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-## Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,react,nextjs,mongodb,mysql,redis,java,spring,docker,git,github,postman,vscode,idea,cpp&perline=9"/>
+</p>
 
 ---
 
 # 📌 Featured Projects
 
-## 💬 SyncTalk
+### 💬 SyncTalk
 
-A real-time chat application with authentication, live messaging, and modern UI.
+Real-time MERN chat application with authentication, live messaging and modern UI.
 
-**Tech Stack:** React • Node.js • Express • MongoDB
-
----
-
-## 🛒 MERN E-Commerce
-
-A full-stack e-commerce platform with authentication, shopping cart, product management, and admin dashboard.
-
-**Tech Stack:** React • Node.js • Express • MongoDB
+**Tech:** React • Node.js • Express • MongoDB
 
 ---
 
-## 🌐 Personal Portfolio
+### 🛒 MERN E-Commerce
 
-A responsive portfolio website showcasing my projects, skills, and experience.
+Full-stack e-commerce platform with authentication, cart, product management and admin dashboard.
 
-**Tech Stack:** Next.js • Tailwind CSS
+**Tech:** React • Node.js • Express • MongoDB
+
+---
+
+### 🌐 Personal Portfolio
+
+Responsive portfolio showcasing projects, experience and technical skills.
+
+**Tech:** Next.js • Tailwind CSS
 
 ---
 
 # 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=shreyansh80321&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shreyansh80321&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyansh80321&show_icons=true&theme=tokyonight"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh80321&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh80321&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh80321&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+[![Shreyansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyansh80321&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
 # 🧠 LeetCode
 
+<p align="center">
 
-![](https://leetcard.jacoblin.cool/sibersuper1122?theme=dark&font=Baloo&ext=heatmap)
+<img src="https://leetcard.jacoblin.cool/sibersuper1122?theme=dark&font=Baloo&ext=heatmap"/>
 
----
-
-# 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shreyansh80321&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 ---
 
-# 📈 Currently Exploring
+# 📚 Currently Exploring
 
 - 🚀 Backend Development
 - ⚙️ Microservices
-- ☁️ Cloud Technologies
+- ☁️ Cloud Computing
 - 🔥 Redis
 - 🏗️ System Design
 - 📦 REST API Design
@@ -150,12 +139,26 @@ A responsive portfolio website showcasing my projects, skills, and experience.
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/shreyansh-srivastava-064367266/
-- 🌐 Portfolio: https://portfolio-iota-bay-65.vercel.app/
-- 📧 Email: shreyanshsrivastava80321@gmail.com
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shreyansh-srivastava-064367266/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:shreyanshsrivastava80321@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-iota-bay-65.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-</p>
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
