@@ -125,7 +125,6 @@ A responsive portfolio website showcasing my projects, skills, and experience.
 
 # 🧠 LeetCode
 
-> Replace `YOUR_LEETCODE_USERNAME` with your actual username.
 
 ![](https://leetcard.jacoblin.cool/sibersuper1122?theme=dark&font=Baloo&ext=heatmap)
 
