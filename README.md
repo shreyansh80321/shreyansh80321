@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Shreyansh%20Srivastava&fontSize=62&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20|%20Full%20Stack%20Developer&descAlignY=60&descSize=22"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Software+Developer;Full+Stack+Developer;Node.js+%7C+React+%7C+Next.js;Backend+Engineering+Enthusiast;Always+Learning+New+Technologies+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Developer;Full+Stack+Developer;Backend+Engineer;Node.js+%7C+React+%7C+Next.js;Building+Scalable+Applications"/>
 </p>
 
 <p align="center">
